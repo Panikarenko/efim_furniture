@@ -615,6 +615,10 @@ footer {
         text-align: center;
     }
 
+    .header_top div{
+        padding-right: 0px;
+    }
+
     .header_top > div{
         margin-top: 0;
     }
